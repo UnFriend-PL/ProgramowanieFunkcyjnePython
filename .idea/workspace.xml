@@ -5,24 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a7ebe75-2566-4fb7-b998-d049d9d1d5e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/p1_zad10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p2_zad1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1_zad9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,7 @@
     "Python.p1_zad8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "pakiet1",
+    "git-widget-placeholder": "pakiet2",
     "last_opened_file_path": "C:/Users/szymo/OneDrive/Documents/python/ProgramowanieFunkcyjnePython",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
