@@ -5,23 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a7ebe75-2566-4fb7-b998-d049d9d1d5e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/p1_zad2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1_zad3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProgFunkcPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgFunkcPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1_zad9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lorem.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad8.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1_zad1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/p1_zad4.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -43,15 +47,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.p1_zad1.executor": "Run",
+    "Python.p1_zad10.executor": "Run",
+    "Python.p1_zad11.executor": "Run",
+    "Python.p1_zad12.executor": "Run",
+    "Python.p1_zad13.executor": "Run",
+    "Python.p1_zad16.executor": "Run",
+    "Python.p1_zad17.executor": "Run",
+    "Python.p1_zad18.executor": "Run",
+    "Python.p1_zad19.executor": "Run",
     "Python.p1_zad2.executor": "Run",
     "Python.p1_zad3.executor": "Run",
     "Python.p1_zad4.executor": "Run",
+    "Python.p1_zad7.executor": "Run",
+    "Python.p1_zad8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "zaj2",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "git-widget-placeholder": "pakiet1",
+    "last_opened_file_path": "C:/Users/szymo/OneDrive/Documents/python/ProgramowanieFunkcyjnePython",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\szymo\OneDrive\Documents\python\ProgramowanieFunkcyjnePython" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\szymo\OneDrive\Documents\python\ProgramowanieFunkcyjnePython" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ProgFunkcPython" />
