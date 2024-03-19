@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a7ebe75-2566-4fb7-b998-d049d9d1d5e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/p2_zad1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1_zad9.py" beforeDir="false" />
-    </list>
+    <list default="true" id="2a7ebe75-2566-4fb7-b998-d049d9d1d5e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
